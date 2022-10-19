@@ -16,10 +16,13 @@ I know that we can check the weather on our cellphones. However, there is too mu
 - import requests
 - from bs4 import BeautifulSoup
 - from twilio.rest import Client
+- Token from Twilio (They offer 15 days trial)
 
+<br>
 
+**OUTPUT**
 
-The end result is once you have the program running, everyday at 7:00 AM in the morning will send you a SMS stating how is the weather condition and what you need to wear depending on how you coded it.
+*The end result is once you have the program running, everyday at 7:00 AM in the morning will send you a SMS stating how is the weather condition and what you need to wear depending on how you coded it.*
 
 ![output](https://user-images.githubusercontent.com/115122030/196613363-0caf92c0-1be7-43bc-9597-c05c4fc980a7.PNG)
 
