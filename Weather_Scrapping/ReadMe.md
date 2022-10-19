@@ -20,11 +20,7 @@ I know that we can check the weather on our cellphones. However, there is too mu
 
 <br>
 
-Libraries
-import schedule
-import requests
-from bs4 import BeautifulSoup
-from twilio.rest import Client
+
 
 **OUTPUT**
 
