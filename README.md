@@ -76,6 +76,7 @@ I know that we can check the weather on our cellphones. However, there is too mu
 
 <br>
 
+### Part 1
 **Analysis with Excel**
 
 ![image](https://user-images.githubusercontent.com/115122030/196620687-b6f18dc6-cafb-4b10-a3ae-dd32ac6993d6.png)
@@ -98,7 +99,7 @@ Third capture shows a list of items ranked by margin gain. We can see that the t
 Last capture shows the time where the most sold items are bought. We can see that people tend to buy more tea between 2-3pm, cake between 2-3pm after lunch, sandwich between 1-2pm during lunch time, coffee between 10-1pm, and pastry between 10-11am. I thought that people would buy more coffee in the AM time but it seems that it’s very spread-out and the main time range are between 10-1pm.
 
 
-**OUTPUT**
+### Part 2
 
 ![basket1](https://user-images.githubusercontent.com/115122030/196619281-acf26716-1593-4d0f-9b60-6fb53aaff9b3.png)
 ![basket2](https://user-images.githubusercontent.com/115122030/196619284-b262992c-c730-44cc-aeec-4e673f52e71f.png)
@@ -107,7 +108,9 @@ The association analysis using Python shows that the customer is 1.48 times more
 
 <br>
 
-**Writing memo**
+### Part 3
+
+**Writing Recommendation**
 
 To: Bread Basket Executives
 
