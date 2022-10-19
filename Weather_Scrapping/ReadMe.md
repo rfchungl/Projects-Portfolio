@@ -1,6 +1,7 @@
 ## Automated Weather SMS
 
 <br>
+
 **Code:** [`Weather_Scrapper.ipynb`](https://github.com/rfchungl/Projects-Portfolio/blob/main/Weather_Scrapping/Weather_Scrapper.py)
 
 **Description:** When I arrived to the United States, there were days when I wore a sweater and jacket, and the day was not that cold. I felt very dumb walking down to my classes while other students were wearing t-shirts, shorts, and sandals. 
@@ -13,6 +14,4 @@ I know that we can check the weather on our cellphones. However, there is too mu
 - import requests
 - from bs4 import BeautifulSoup
 - from twilio.rest import Client
-
-# First
 
