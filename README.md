@@ -23,7 +23,7 @@ This is a repository to showcase skills learned through academic, work, hobby, a
 
 **Description:** A Python program that scrap the weather data based on the location you put on Google. It sends you a SMS everyday at 7:00AM in the morning *(you can schedule the time)* and have personalized message if wanted.
 
-[Click here to get to the folder](#Weather_Scrapping)
+[Click here to get to the folder](##Weather_Scrapping)
 
 ## Market Basket Analysis
 ## Tutoring Statistics Visualization
