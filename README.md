@@ -9,7 +9,7 @@ This is a repository to showcase skills learned through academic, hobby, and int
 ## Table of Content
 - [About Me](#about)
 - Projects
-      + [Weather Scrapping Using Pythpm and Send to SMS](#Weather)
+      + [Automating Weather SMS](#Weather)
       +
       +
       +
@@ -17,4 +17,4 @@ This is a repository to showcase skills learned through academic, hobby, and int
     
 
 
-## Weather Scrapping Using Python and Send to SMS
+## Automating Weather SMS
