@@ -9,7 +9,7 @@ This is a repository to showcase skills learned through academic, hobby, and int
 ## Table of Contents
 - [About Me](#About)
 - [Projects](#Projects)
-   + [Automating Weather SMS](#Weather)
+   + [Automated Weather SMS](#Weather)
    + [Market Basket Analysis](#Market)
    + [Tutoring Statistics Visualization](#Tutoring)
    + [Tableau Visualization](#Tableau)
@@ -19,7 +19,7 @@ This is a repository to showcase skills learned through academic, hobby, and int
 
 
 ## Projects 
-## Automating Weather SMS
+## Automated Weather SMS
 ## Market Basket Analysis
 ## Tutoring Statistics Visualization
 ## Tableau Visualization
