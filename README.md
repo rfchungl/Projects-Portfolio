@@ -7,12 +7,20 @@ Hi, my name is Ruben Chung and I am an aspiring data analyst with a background i
 This is a repository to showcase skills learned through academic, hobby, and internships.
 
 ## Table of Content
-- [About Me](#about)
-- [Projects](#projects)
-- [Automating Weather SMS](#Weather)
+- [About Me](#About)
+- [Projects](#Projects)
+   + [Automating Weather SMS](#Weather)
+   + [Market Basket Analysis](#Market)
+   + [Tutoring Statistics Visualization](#Tutoring)
+   + [Tableau Visualization](#Tableau)
+   + [Razorbacks Food Recovery](#Razorbacks)
 
     
 
 
 ## Projects 
 ## Automating Weather SMS
+## Market Basket Analysis
+## Tutoring Statistics Visualization
+## Tableau Visualization
+## Razorbacks Food Recovery
