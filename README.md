@@ -7,6 +7,11 @@ Hi, my name is Ruben Chung and I am an aspiring data analyst with a background i
 This is a repository to showcase skills learned through academic, hobby, and internships.
 
 ## Table of Content
-- 
+- [About Me](#about me)
+-
+-
+-
+-
+-
 
 ## Weather Scrapping Using Python and Send to SMS
