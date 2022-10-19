@@ -112,11 +112,9 @@ The association analysis using Python shows that the customer is 1.48 times more
 
 **Writing Recommendation**
 
-To: Bread Basket Executives
-
-From: Ruben Chung, Data Analyst
-
-Subject: Break Basket Recommendations
+To: Bread Basket Executives <br>
+From: Ruben Chung, Data Analyst <br>
+Subject: Break Basket Recommendations <br>
 
 Based on the analyses performed, we found that the top 5 best-selling items are coffee, tea, cake, sandwich, and pastry. Coffee has by far the highest amount sold followed by tea. Interestingly, the time range where these two products are sold the most is between 10-1 pm for coffee and 2-3 pm for tea. Sandwich is best sold between 1-2 pm for lunchtime.
 
