@@ -110,16 +110,22 @@ The association analysis using Python shows that the customer is 1.48 times more
 **Writing memo**
 
 To: Bread Basket Executives
+
 From: Ruben Chung, Data Analyst
+
 Subject: Break Basket Recommendations
 
 Based on the analyses performed, we found that the top 5 best-selling items are coffee, tea, cake, sandwich, and pastry. Coffee has by far the highest amount sold followed by tea. Interestingly, the time range where these two products are sold the most is between 10-1 pm for coffee and 2-3 pm for tea. Sandwich is best sold between 1-2 pm for lunchtime.
 
+
 Although coffee and tea are not at the top when it comes to margin, they are good to draw customers when paired with other products such as cake, pastry, and bread, thus, increasing the amount spent by customers. We found that the highest pairing combo is coffee and pastry. On the other hand, we don’t recommend pairing tea and bread. In addition, we recommend discontinuing the sale of muffins as it has the least sale and customers don’t like them.
+
 
 We recommend preparing enough coffee, tea, pastries, cakes, and sandwiches during the peak time using the time range to avoid stock out. Also, consider doing a marketing campaign that incentive customers to pair coffee or tea with any other products for a discount or loyalty points to increase Bread Basket’s revenue.
 
+
 If you have any questions, please contact me at rfchungl@uark.edu. Your voice matters. 
+
 
 Sincerely,
 
