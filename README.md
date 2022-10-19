@@ -9,11 +9,11 @@ This is a repository to showcase skills learned through academic, work, hobby, a
 ## Table of Contents
 - [About Me](#About-me)
 - [Projects](#Projects)
-   + [Automated Weather SMS](#Weather)
-   + [Market Basket Analysis](#Market)
-   + [Tutoring Statistics Visualization](#Tutoring)
-   + [Tableau Visualization](#Tableau)
-   + [Razorbacks Food Recovery](#Razorbacks)
+   + [Automated Weather SMS](#Automated-Weather-SMS)
+   + [Market Basket Analysis](#Market-Basket-Analysis)
+   + [Tutoring Statistics Visualization](#Tutoring-Statistics-Visualization)
+   + [Tableau Visualization](#Tableau-Visualization)
+   + [Razorbacks Food Recovery](#Razorbacks-Food-Recovery)
 
     
 
