@@ -8,12 +8,9 @@ This is a repository to showcase skills learned through academic, hobby, and int
 
 ## Table of Content
 - [About Me](#about)
-- Projects
-      + [Automating Weather SMS](#Weather)
-      +
-      +
-      +
-      +
+- [Projects]
+      [Automating Weather SMS](#Weather)
+
     
 
 
