@@ -15,3 +15,8 @@ I know that we can check the weather on our cellphones. However, there is too mu
 - from bs4 import BeautifulSoup
 - from twilio.rest import Client
 
+**The Python code has comments on what each line does for a better understanding of the program**
+
+The result
+
+
