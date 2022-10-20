@@ -3,7 +3,7 @@ from mlxtend.frequent_patterns import apriori
 from mlxtend.frequent_patterns import association_rules
 
 #path to Bread Basket csv
-bread = pd.read_csv(r"/Users/RuKai/Desktop/basket.csv")
+bread = pd.read_csv(r"/Users/yourusername/Desktop/basket.csv")
 df = bread.groupby(['Transaction','Item']).size().reset_index(name='count')
 breadbasket = (df.groupby(['Transaction', 'Item'])['count']
           .sum().unstack().reset_index().fillna(0)
