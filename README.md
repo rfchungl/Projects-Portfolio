@@ -65,7 +65,7 @@ I know that we can check the weather on our cellphones. However, there is too mu
 
 **The Python code has comments on what does each line do for a better understanding of the program.**
 
-**Description:** Using Excel and Python to analyze the data transactions from a bakery to understand the results from the association analysis of the mentioned dataset.
+**Description:** Using Excel and Python to analyze the data transactions from a bakery to understand the consumer behavior identifying what people buy and what they other item they usually pair with.
 
 **What does this program do?** It first read the csv file named "basket.csv" then it runs association analysis through a few lines of codes using the mlxtend.frequent_patterns apriori and association_rules libraries.
 
