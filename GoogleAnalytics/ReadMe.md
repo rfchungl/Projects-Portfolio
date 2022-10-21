@@ -5,8 +5,7 @@
 
 **Visualization:** [`Click here`](https://datastudio.google.com/reporting/2004c153-b0d4-42e1-8bee-1f3c6eaa2fa8)
 
-**Note:** The dataset was modified in order to protect the privacy of the tutors and students.
-
+**Note:** The dataset was modified in order to protect the privacy of the tutors and students. The date of the sample dataset is from 08-23-2021 to 10-23-2021.
 
 **Description:** Condensing all weekly CSV files from tutoring into a database and use it to feed the dashboard.
 
@@ -14,6 +13,19 @@
 
 In order to reduce the time, I decided to condense all the CSV files into a database. In this case, I used free softwares to do that due to this being something that I purely wanted to do...not that I was required. Therefore, I chose the Google Analytics pack as the tools and used BigQuery to centralize all the booking informations and use DataStudio (Looker Studio) to provide visibility. Throughout my time working as a Graduate Assistant, I updated weekly the database once I was able to get to the CSV file.
 
+**PROCEDURE**
+
+I could have done it two ways:
+  1- Merge all the CSV files into Excel file and upload it to BigQuery
+  2- Upload weekly CSV file into BigQuery
+
+To show the full functionality of how I maintained a database, I am going to showcase method #2.
+
+## Part I ##
+
+I created a bucket to save the CSV file digitally. Due to BigQuery being a web-based database, it cannot use your own desktop to find the path to the file you are going to upload.
+
+![bucket](https://user-images.githubusercontent.com/115122030/197105095-d1c834f0-5db3-46f6-8b57-dabd267ed68f.JPG)
 
 
 
