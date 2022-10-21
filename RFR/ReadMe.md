@@ -11,4 +11,15 @@
 
   
   **Resolve:** I am going to provide solution to the first two main points.
+  
+  **Dataset At First Glance:**
+  
+  ![image](https://user-images.githubusercontent.com/115122030/197115533-7cecebc8-723d-4bab-8b5a-5c22e7184ae0.png)
+
+As you can see on row 59 and 60 they are basically the same, however, because different volunteers type differently, it may have slight difference in the information entered (the same between vegetables and vetagatables row 73 and 74). You can see this issue in the 19,000+ rows of transactions due to not having a standard or rules when inputting the information.
+
+**Data Cleansing**
+
+I used two ways to cleanse the dataset and I worked by block. By that I mean I categorized them by food group then worked on standardizing the food names based on the food group.
+[You can see my work here](https://github.com/rfchungl/Projects-Portfolio/blob/main/datamanagementplan.txt)
 
