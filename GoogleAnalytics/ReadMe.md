@@ -41,7 +41,7 @@ After creating the database in BigQuery, you can upload your first CSV file as t
 
 In order to maintain it, I had to do a weekly BigQuery update to load the weekly report from the director. 
 
-[`Here are the queries`](https://github.com/rfchungl/Projects-Portfolio/blob/main/GoogleAnalytics/Load%20query.txt)
+[`Click Here For Queries`](https://github.com/rfchungl/Projects-Portfolio/blob/main/GoogleAnalytics/Load%20query.txt)
 
 
 ### Part IV ###
