@@ -26,7 +26,7 @@ As you can see on row 59 and 60 they are basically the same, however, because di
 
 I used two ways to cleanse the dataset and I worked by block. By that I mean I categorized them by food group then worked on standardizing the food names based on the food group. I some part I used Excel to create the food category and some part I used SAS EG to do the big bulk of cleansing. <br>
 
-[You can see my work here](https://github.com/rfchungl/Projects-Portfolio/blob/main/datamanagementplan.txt)
+[You can see my work here](https://github.com/rfchungl/Projects-Portfolio/blob/main/RFR/datamanagementplan.txt)
 
 Cleansing and formatting was the toughest part of the project. Once I was done with this, the rest was a walk in the park.
 
