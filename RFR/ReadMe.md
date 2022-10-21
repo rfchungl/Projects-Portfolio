@@ -50,6 +50,6 @@ Once the volunteer inputs the information in the Google form, it will be capture
 
 **Result**
 
-The result is that once a form is introduced, it will be shown in the dashboard. Cleaning the dataset and standardizing the way the data is capture will make it easier for RFR spend their time to analyze the trends instead of spending time cleansing.
+The result is that once a form is introduced, it will be shown in the dashboard. Cleaning the dataset and standardizing the way the data is captured will make it easier for RFR spend their time to analyze the trends instead of spending time cleansing.
 
 
