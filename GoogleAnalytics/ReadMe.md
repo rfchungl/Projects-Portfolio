@@ -15,7 +15,7 @@ In order to reduce the time, I decided to condense all the CSV files into a data
 
 ## PROCEDURE ##
 
-I could have done it two ways:
+I could have done it two ways: <br>
   1- Merge all the CSV files into Excel file and upload it to BigQuery <br>
   2- Upload weekly CSV file into BigQuery <br>
 
