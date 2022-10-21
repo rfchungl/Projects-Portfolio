@@ -8,7 +8,7 @@
 
 **Description:** Using API and JSON library to create a Python program.
 
-**What does this program do?** The Python code is based on an API that shows you the college names based on the country you type.
+**What does this program do?** The Python code is based on an API that shows you the college names based on the country you type. Once the user type the country name, it asks the API to retrieve the college names, in order to save them, we gather the results in JSON then use python dictionary to print the results.
 
 **Things needed to run the Python code:** <br>
 import urllib.request <br>
