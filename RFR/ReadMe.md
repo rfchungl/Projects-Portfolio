@@ -12,6 +12,8 @@
   
   **Resolve:** I am going to provide solution to the first two main points.
   
+  ### PROCEDURE ###
+  
   **Dataset At First Glance:**
   
   ![image](https://user-images.githubusercontent.com/115122030/197115533-7cecebc8-723d-4bab-8b5a-5c22e7184ae0.png)
