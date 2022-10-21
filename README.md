@@ -14,7 +14,7 @@ This is a repository to showcase skills learned through academic, work, hobby, a
    + [Tutoring Statistics Visualization](#Tutoring-Statistics-Visualization)
    + [Tableau Visualization](#Tableau-Visualization)
    + [Razorbacks Food Recovery](#Razorbacks-Food-Recovery)
-   + [College Name Based on Country](#College-Name-Based-on-Country)
+   + [Country API](#Country-API)
 
     
 
@@ -205,4 +205,4 @@ When selecting the source of the data in DataStudio, select BigQuery as the data
 
 ## Tableau Visualization
 ## Razorbacks Food Recovery
-## College Name Based on Country
+## Country API
