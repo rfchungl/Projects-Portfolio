@@ -21,7 +21,7 @@ I could have done it two ways:
 
 To show the full functionality of how I maintained a database, I am going to showcase method #2.
 
-# Part I #
+### Part I ###
 
 I created a bucket to save the CSV file digitally. Due to BigQuery being a web-based database, it cannot use your own desktop to find the path to the file you are going to upload.
 
@@ -29,7 +29,7 @@ I created a bucket to save the CSV file digitally. Due to BigQuery being a web-b
 
 I was able to start the database with three weeks of data sample. After that, every week when I got the CSV file from the director, I would upload it into the bucket.
 
-# Part II #
+### Part II ###
 
 Creating the database and setting up the schema.
 
@@ -37,7 +37,7 @@ Creating the database and setting up the schema.
 
 After creating the database in BigQuery, you can upload your first CSV file as the schema automatically or you can write by yourself.
 
-# Part III #
+### Part III ###
 
 In order to maintain it, I had to do a weekly BigQuery update to load the weekly report from the director. Here are the queries:
 
@@ -87,7 +87,7 @@ FROM FILES (
   uris = ['gs://sscbucket/10-17-2021 to 10-23-2021.csv']);
 
 
-# Part IV #
+### Part IV ###
 
 Finally, after having the database, I used Google DataStudio *(Locker Studio)* to visualize what we have about booking appointments.
 
@@ -95,7 +95,7 @@ Finally, after having the database, I used Google DataStudio *(Locker Studio)* t
 
 When selecting the source of the data in DataStudio, select BigQuery as the database and choose the path of your dataset. In this case, I already created it on Part II.
 
-# Final Result #
+### Final Result ###
 
 ![image](https://user-images.githubusercontent.com/115122030/197106202-33770e3a-db6f-4b7a-896a-90029846f831.png)
 
