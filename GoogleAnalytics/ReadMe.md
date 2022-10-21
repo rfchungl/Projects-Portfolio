@@ -37,8 +37,67 @@ Creating the database and setting up the schema.
 
 After creating the database in BigQuery, you can upload your first CSV file as the schema automatically or you can write by yourself.
 
+## Part III ***
+
+In order to maintain it, I had to do a weekly BigQuery update to load the weekly report from the director. Here are the queries:
+
+LOAD DATA INTO student-success-center-326917.Fall2021.datasetfall2021
+FROM FILES (
+  format = 'CSV',
+  uris = ['gs://sscbucket/08-29-2021 to 09-04-2021.csv']);
+
+LOAD DATA INTO student-success-center-326917.Fall2021.datasetfall2021
+FROM FILES (
+  format = 'CSV',
+  uris = [' gs://sscbucket/09-05-2021 to 09-11-2021.csv']);
+
+LOAD DATA INTO student-success-center-326917.Fall2021.datasetfall2021
+FROM FILES (
+  format = 'CSV',
+  uris = ['gs://sscbucket/09-12-2021 to 09-18-2021.csv']);
+
+LOAD DATA INTO student-success-center-326917.Fall2021.datasetfall2021
+FROM FILES (
+  format = 'CSV',
+  uris = [' gs://sscbucket/9-19-2021 to 9-25-2021.csv']);
+
+LOAD DATA INTO student-success-center-326917.Fall2021.datasetfall2021
+FROM FILES (
+  format = 'CSV',
+  uris = [' gs://sscbucket/9-26-2021 to 10-02-2021.csv']);
+
+LOAD DATA INTO student-success-center-326917.Fall2021.datasetfall2021
+FROM FILES (
+  format = 'CSV',
+  uris = ['gs://sscbucket/10-03-2021 to 10-09-2021.csv']);
+
+LOAD DATA INTO student-success-center-326917.Fall2021.datasetfall2021
+FROM FILES (
+  format = 'CSV',
+  uris = ['gs://sscbucket/10-10-2021 to 10-16-2021.csv']);
+
+LOAD DATA INTO student-success-center-326917.Fall2021.datasetfall2021
+FROM FILES (
+  format = 'CSV',
+  uris = ['gs://sscbucket/10-17-2021 to 10-23-2021.csv']);
+
+LOAD DATA INTO student-success-center-326917.Fall2021.datasetfall2021
+FROM FILES (
+  format = 'CSV',
+  uris = ['gs://sscbucket/10-17-2021 to 10-23-2021.csv']);
 
 
+## Part IV ***
+
+Finally, after having the database, I used Google DataStudio *(Locker Studio)* to visualize what we have about booking appointments.
+
+![database](https://user-images.githubusercontent.com/115122030/197105946-446a7fe3-8e9f-4916-a0fb-35874e92f74a.JPG)
+
+When selecting the source of the data in DataStudio, select BigQuery as the database and choose the path of your dataset. In this case, I already created it on Part II.
+
+## Final Result ##
+
+![image](https://user-images.githubusercontent.com/115122030/197106202-33770e3a-db6f-4b7a-896a-90029846f831.png)
 
 
 
