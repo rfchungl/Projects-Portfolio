@@ -2,7 +2,7 @@
 
 <br>
 
-**Code:** [`Weather_Scrapper.ipynb`](https://github.com/rfchungl/Projects-Portfolio/blob/main/Weather_Scrapping/Weather_Scrapper.py)
+**Code:** [`API.ipynb`](https://github.com/rfchungl/Projects-Portfolio/blob/main/API/API.py)
 
 **The Python code has comments on what does each line do for a better understanding of the program.**
 
