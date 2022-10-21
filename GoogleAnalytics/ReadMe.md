@@ -27,6 +27,17 @@ I created a bucket to save the CSV file digitally. Due to BigQuery being a web-b
 
 ![bucket](https://user-images.githubusercontent.com/115122030/197105095-d1c834f0-5db3-46f6-8b57-dabd267ed68f.JPG)
 
+I was able to start the database with three weeks of data sample. After that, every week when I got the CSV file from the director, I would upload it into the bucket.
+
+## Part II ##
+
+Creating the database and setting up the schema.
+
+![bigquery](https://user-images.githubusercontent.com/115122030/197105405-42d1f751-cdd6-42be-948f-881eaaa1f00e.JPG)
+
+After creating the database in BigQuery, you can upload your first CSV file as the schema automatically or you can write by yourself.
+
+
 
 
 
